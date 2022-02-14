@@ -1,0 +1,37 @@
+Thank you for purchasing our script.
+
+
+
+Note:- If you are installing the script the first time then use the "QUICKQR.zip" file.
+
+
+
+IF YOU WANT TO UPDATE THE PREVIOUS VERSION THEN USE THE BELOW STEPS
+
+Step 1:- Please make a backup of your old files.
+
+Step 2:- Upload the "QUICKQR-CMS-5.8.zip" file in the admin/uploads folder. (find the file in the update folder)
+
+Step 3:- Go to Admin > Update page.
+
+Step 4:- After uploading is completed you can see the install button.
+
+Step 5:- Click on the install button and wait for completion.
+
+Step 6:- Done.
+
+
+
+CHECK MORE DETAILS IN DOCUMENTATION OR CONTACT US FOR SUPPORT.
+
+
+
+DOCUMENTATION: https://quickqr.bylancer.com/documentation/
+
+SUPPORT: https://bylancer.ticksy.com/
+
+
+
+Thank you again,
+
+Bylancer

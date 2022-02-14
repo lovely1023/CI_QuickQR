@@ -1,0 +1,9 @@
+/*
+Theme Name: Flipbook Theme
+Theme Type: image-menu
+Theme URI: https://bylancer.com/products/demo/
+Author: Bylancer
+Version: 1
+Price: Free
+Description: A Beautiful, Professional and Modern Freelancing Template.
+*/
